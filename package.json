@@ -1,0 +1,17 @@
+{
+  "name": "cypress-blank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.2.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}
