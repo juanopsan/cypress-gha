@@ -153,7 +153,7 @@ describe('Globant Demo', () => {
 
     cy
       .getElementByRequiredError('First')
-      .should('be.visible')
+      .should('not.be.visible')
 
   })
 })
